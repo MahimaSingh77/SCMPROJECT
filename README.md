@@ -1,2 +1,2 @@
 # SCMPROJECT
-This is repository is for SCM project
+This repository is for SCM project
